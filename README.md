@@ -1,4 +1,5 @@
-### Hola, :v:
+## Español
+### Hola, 👨‍🎓
 Soy Enzo, actualmente me encuentro estudiando Ingeniería en computacion en la universidad de chile. Mis intereses a futuro van de la mano con el uso de la tecnologia y el desarrollo de software para solucionar problemas reales.
 
 ## English
