@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&color=FFFFFF&random=false&width=435&lines=About+Me)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=FFFFFF&random=false&width=435&height=40&lines=About+Me)](https://git.io/typing-svg)
 ## Español
 ### Hola, 👨‍🎓
 Soy Enzo, actualmente me encuentro estudiando Ingeniería en computacion en la universidad de chile. Mis intereses a futuro van de la mano con el uso de la tecnologia y el desarrollo de software para solucionar problemas reales.
