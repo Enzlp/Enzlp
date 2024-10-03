@@ -6,3 +6,8 @@ Soy Enzo, actualmente me encuentro estudiando Ingeniería en computacion en la u
 ## English
 ### Hi there  :v:
 I'm Enzo, a student at Universidad de Chile, where I'm pursuing a degree in computer science and engineering. My interests lie in leveraging technology and software development to address real-world challenges.
+
+## Repositorios que podrias revisar...
+- [ing_sw](https://github.com/Enzlp/ing_sw): Pagina web basica implementada con metodologias organizativas de desarrollo de software
+- [apps_Web](https://github.com/Enzlp/apps_web): Desarrollos de aplicaciones web en el marco de las distintas partes de un sitio, frontend, backend, etc.
+- [lenguajes](https://github.com/Enzlp/lenguajes): Trabajo con lenguajes de programacion funcionales, y tópicos asociados
