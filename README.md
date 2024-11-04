@@ -1,5 +1,11 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=40&pause=1000&color=FFFFFF&vCenter=true&random=false&width=435&lines=About+Me)](https://git.io/typing-svg)
-I’m a Computer Science and Engineering student at Universidad de Chile. When I’m not cramming for exams (or pretending to), I enjoy working on various software development side projects. Feel free to check out some of them in my pinned section or browse through my other public repositories!<br>
+
+<div style="display: flex; align-items: center;">
+    <p style = "padding: 20px; text-align: justify;">I’m a Computer Science and Engineering student at Universidad de Chile. When I’m not cramming for exams (or pretending to), I enjoy working on various software development side projects. Feel free to check out some of them in my pinned section or browse through my other public repositories!
+    </p>
+    <img src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif" width="" height="180" style="display: block; margin: auto;" />
+</div>
+
 
 
 # 💻 Tech Stack:
