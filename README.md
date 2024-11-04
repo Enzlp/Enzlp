@@ -4,8 +4,8 @@
 
 <img align="right" height="200" alt="Unicorn" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif" />
 
-<p style = "padding: 40px; text-align: justify;" align = "left">I’m a Computer Science and Engineering student at Universidad de Chile. When I’m not cramming for exams (or pretending to), I enjoy working on various software development side projects. Feel free to check out some of them in my pinned section or browse through my other public repositories!
-</p>
+I’m a Computer Science and Engineering student at Universidad de Chile. When I’m not cramming for exams (or pretending to), I enjoy working on various software development side projects. Feel free to check out some of them in my pinned section or browse through my other public repositories!
+
 <br>
 
 # 💻 Tech Stack:
